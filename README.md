@@ -62,7 +62,9 @@ Infrastructure automation & deployments
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rassaasarra&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rassaasarra&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=rassaasarra&theme=tokyonight" />
 </p>
 
 ---
