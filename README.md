@@ -75,9 +75,9 @@ Infrastructure automation & deployments
   <a href="https://linkedin.com/in/sarra-rassaa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:sarrarassaa8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
+ <a href="mailto:sarrarassaa8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sarrarassaa8%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
